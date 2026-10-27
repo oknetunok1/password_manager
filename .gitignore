@@ -1,0 +1,17 @@
+# Окружение
+.venv/
+
+# Байт-код Python
+__pycache__/
+*.py[cod]
+
+# Кэши линтеров и тестов
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# База паролей
+vault.json
+
+# Настройка PyCharm
+.idea/
